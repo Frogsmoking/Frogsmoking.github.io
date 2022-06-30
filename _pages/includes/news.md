@@ -1,3 +1,4 @@
 # 🔥 News
-- *2022.03*: &nbsp;🎉🎉 1 paper accepted to IEEE TPAMI
-- *2022.03*: &nbsp;🎉🎉 4 papers accepted to CVPR 2022
+- *2022.06*: &nbsp;🎉🎉 1 papers accepted to ICIP 2022.
+- *2022.05*: &nbsp;🎉🎉 2 papers accepted to ICPR 2022.
+- *2022.03*: &nbsp;🎉🎉 1 paper accepted to Remote Sensing Letters.
