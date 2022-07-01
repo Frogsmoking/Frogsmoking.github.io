@@ -5,7 +5,7 @@ Xiaoxiao Yang, **Yu Guo**, Yinuo Wang, Peilin Jiang, and Fei Wang
 
 [Photometric Stereo Based on Multiple Kernel Learning](), International Conference on Image and Graphics (ICIG) 2021.
 
-Yinuo Wang, **Yu Guo**, Xiaoxiao. Yang, Xuetao. Zhang, and Fei Wang
+Yinuo Wang, **Yu Guo**, Xiaoxiao Yang, Xuetao. Zhang, and Fei Wang
 
 [Deep Multi-Scale Gabor Wavelet Network for Image Restoration](), International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020.
 
@@ -13,7 +13,7 @@ Hang Dong, Xinyi Zhang, **Yu Guo** and Fei Wang
 
 [Recursive Maximum Correntropy Criterion Based Randomized Recurrent Broad Learning System](), International Conference on Neural Information Processing(ICONIP), 2020
 
-Yinuo Wang, **Yu Guo**, Xiaoxiao. Yang, Xuetao. Zhang, and Fei Wang
+Yinuo Wang, **Yu Guo**, Xiaoxiao Yang, Xuetao. Zhang, and Fei Wang
 
 [Gated Contiguous Memory U-Net for Single Image Dehazing](), International Conference on Neural Information Processing (ICONIP) 2019.
 
