@@ -1,4 +1,4 @@
-# 🧑‍💻 Collaborator
+# 🧑‍💻 Collaborators
 
 - [*Xuan Wang* - Scientific Researcher in Tencent AI Lab](https://xuanwangvc.github.io/)
 - [*Zheng Dang* - Scientific Researcher in EPFL](https://people.epfl.ch/zheng.dang?lang=en)
