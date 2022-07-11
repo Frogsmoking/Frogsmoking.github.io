@@ -2,7 +2,7 @@
 
 - [*Xuan Wang* - Scientific Researcher in Tencent AI Lab](https://xuanwangvc.github.io/)
 - [*Zheng Dang* - Scientific Researcher in EPFL](https://people.epfl.ch/zheng.dang?lang=en)
-- *Zheng Wang* - Assistant Professor in Xi'an Jiaotong University
+- [*Zheng Wang* - Assistant Professor in Xi'an Jiaotong University](https://github.com/StevenWangNPU)
 
 # 🌏Resources
 
