@@ -8,3 +8,4 @@
 
 - [*Open3D*: A Modern Library for 3D Data Processing](http://www.open3d.org)
 - [*Point Cloud Librar*:  Open project for 2D/3D image and point cloud processing](https://pointclouds.org/)
+- [*PyTorch3D*:A library for deep learning with 3D data](https://pytorch3d.org/)
