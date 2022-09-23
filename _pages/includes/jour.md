@@ -6,6 +6,11 @@
 <!-- <div class='paper-box'><div class='paper-box-image'><div class="badge">Remote Sensing Letters 2022</div><img src='images/pub/posetrans.gif' type="video/mp4`" alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1"> -->
 
+[Adaptive Weighted Robust Iterative Closest Point]
+(https://www.sciencedirect.com/science/article/pii/S0925231222010323), Neurocomputing, 2022.
+
+**Yu Guo**, Luting Zhao, Yan Shi, $Xuetao Zhang$^\dagger$, Shaoyi Du, Fei Wang
+
 [Self-paced collaborative representation with manifold weighting for hyperspectral anomaly detection](https://www.tandfonline.com/doi/full/10.1080/2150704X.2022.2057824), Remote Sensing Letters, 2022.
 
 Yantao Ji, Peilin Jiang, **Yu Guo$^\dagger$**, Ruiteng Zhang and Fei Wang
