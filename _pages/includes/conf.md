@@ -1,4 +1,8 @@
 ## <span style="color:brown">Conference papers</span>
+[Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World](), European Conference on Computer Vision (ECCV) 2022.
+
+Zheng Dang, Lizhou Wang, **Yu Guo**, Salzmann Mathieu
+
 [Dynamic Hypergraph Regularized Broad Learning System for Image Classification](), International Conference on Image and Graphics (ICIG) 2021.
 
 Xiaoxiao Yang, **Yu Guo**, Yinuo Wang, Peilin Jiang, and Fei Wang
