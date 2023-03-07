@@ -1,6 +1,6 @@
 # 🧑‍💻Collaborators
 
-- [*Xuan Wang* - Scientific Researcher in Tencent AI Lab](https://xuanwangvc.github.io/)
+- [*Xuan Wang* - Research scientist in Interatcion Intelligence Lab, Ant Research.](https://xuanwangvc.github.io/)
 - [*Zheng Dang* - Scientific Researcher in EPFL](https://people.epfl.ch/zheng.dang?lang=en)
 - [*Zheng Wang* - Assistant Professor in Xi'an Jiaotong University](https://github.com/StevenWangNPU)
 
