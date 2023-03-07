@@ -1,4 +1,16 @@
 ## <span style="color:brown">Conference papers</span>
+[UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://arxiv.org/pdf/2203.14402.pdf), The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
+
+Yue Chen, Xuan Wang, Xingyu Chen, Qi Zhang, Xiaoyu Li, **Yu Guo**, Jue Wang, Fei Wang
+
+[L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://arxiv.org/pdf/2211.11505.pdf), The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
+
+Yue Chen, Xingyu Chen, Xuan Wang, Qi Zhang, **Yu Guo**, Ying Shan, Fei Wang
+
+[SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://arxiv.org/pdf/2211.12194.pdf), The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023.
+
+Wenxuan Zhang, Xiaodong Cun, Xuan Wang, Yong Zhang, Xi Shen, **Yu Guo**, Ying Shan, Fei Wang
+
 [Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World](), European Conference on Computer Vision (ECCV) 2022.
 
 Zheng Dang, Lizhou Wang, **Yu Guo**, Salzmann Mathieu
