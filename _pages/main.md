@@ -21,11 +21,11 @@ redirect_from:
 
 {% include_relative includes/news.md %}
 
+{% include_relative includes/conf.md %}
+
 {% include_relative includes/jour.md %}
 
 {% include_relative includes/preprint.md %}
-
-{% include_relative includes/conf.md %}
 
 {% include_relative includes/resource.md %}
 
