@@ -11,9 +11,13 @@ Yue Chen, Xingyu Chen, Xuan Wang, Qi Zhang, **Yu Guo**, Ying Shan, Fei Wang
 
 Wenxuan Zhang, Xiaodong Cun, Xuan Wang, Yong Zhang, Xi Shen, **Yu Guo**, Ying Shan, Fei Wang
 
-[Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World](), European Conference on Computer Vision (ECCV) 2022.
+[Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World](https://arxiv.org/abs/2203.15309), European Conference on Computer Vision (ECCV) 2022.
 
 Zheng Dang, Lizhou Wang, **Yu Guo**, Salzmann Mathieu
+
+[Frequency-aware Deep Dual-path Feature Enhancement Network for Image Dehazing](https://ieeexplore.ieee.org/document/9955635/), International Conference on Pattern Recognition (ICPR) 2022.
+
+Ruyu Li, Hang Dong, Li Wang, Boyang Liang, **Yu Guo**, Fei Wang, 
 
 [Dynamic Hypergraph Regularized Broad Learning System for Image Classification](), International Conference on Image and Graphics (ICIG) 2021.
 
@@ -47,7 +51,7 @@ Weinong Wang, Fei Wang, **Yu Guo**
 
 **Yu Guo**, Fei Wang, James Ting-Ho Lo
 
-[Nonlinear system identification based on recurrent neural networks with shared and specialized memories](), Asian Control Conference (ASCC), 2017.
+[Nonlinear system identification based on recurrent neural networks with shared and specialized memories](https://ieeexplore.ieee.org/document/8287491), Asian Control Conference (ASCC), 2017.
 
 **Yu Guo**, Fei Wang, James Ting-Ho Lo
 
